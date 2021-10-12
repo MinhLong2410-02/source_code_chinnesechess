@@ -1,2 +1,2 @@
 # source_code_chinnesechess
-Source code chinnes chess
+Source code chinnese chess
